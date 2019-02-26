@@ -104,7 +104,7 @@ class TimerComponent extends Component {
     return (
       <section className="timerMachine">
         
-        <h1>Time till Ashzabin <a target="_" href="https://en.wikipedia.org/wiki/Apu_Nahasapeemapetilon">Apu</a> leaves</h1>
+        <h1>Time till Ashzabin <a target="_" href="https://en.wikipedia.org/wiki/Apu_Nahasapeemapetilon">Apu</a> will no longer be with us</h1>
         
         <span className="timer">
           <TimerMachine
